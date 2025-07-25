@@ -1,5 +1,4 @@
 __pycache__/
-*.pkl
 .env
 data/
 .DS_Store
